@@ -24,3 +24,5 @@ test('should tell you whether the given value is a palindrome.', () => {
   let result = isPalindrome('kek');
   expect(result).toBeTruthy();
 });
+
+console.log(result)
